@@ -16,6 +16,7 @@ Software:
 Platform:
 - Design App server: MIT App Inventor
 - Github
+- Firebase
 
 ## Techniques that we used on GitHub
 
