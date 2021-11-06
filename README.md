@@ -32,3 +32,7 @@ Platform:
 - How to use custom colour.
 - How to customise MIT App Inventor to achieve a specific design style.
 - Understand how to upload the data we type.
+
+## Step to install the Application
+
+- As you can see in the github, there is a file named : YourBMI.apk. Download it on your phone or any digital device that support .apk file. Install it and you are free to use the application. 
