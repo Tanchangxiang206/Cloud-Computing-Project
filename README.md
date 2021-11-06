@@ -7,7 +7,7 @@ The objective of this project is to look at how we can customise Flutter Widgets
 
 ## What you will create
 
-<img src="ss.png">
+<img src="login.jpg">
 
 ## What you will learn
 
