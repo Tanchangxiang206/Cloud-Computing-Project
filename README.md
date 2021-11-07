@@ -36,3 +36,6 @@ Platform:
 ## Step to install the Application
 
 - As you can see in the github, there is a file named : YourBMI.apk. Download it on your phone or any digital device that can support .apk file. After that, install it and you are free to use the application. 
+
+##user Manual
+- User Manual can refer to YourBMI.pdf in our GitHub.
