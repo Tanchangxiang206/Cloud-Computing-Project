@@ -1,5 +1,12 @@
 # Cloud-Computing-Project
 
+# Member
+1181201839 TAN CHANG XIANG
+1181201844 JAMES YAP ZE MING
+1181201293 PANG CHIA HAO  
+1181201815 HAM PING TAK  
+1181200685 LIM ZE WEI
+
 ## Our Goal
 
 The objective of this project is to look at how we can customise MIT App Inventor to achieve our own beautiful user interface designs.
